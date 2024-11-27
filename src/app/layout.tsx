@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Trello",
-  description: "Trello app",
+  title: "Task Tracker",
+  description: "Task Tracker app",
 };
 
 export default function RootLayout({
