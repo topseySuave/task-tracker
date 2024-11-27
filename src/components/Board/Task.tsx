@@ -223,6 +223,8 @@ export function Task({ task, setColumns }: TaskProps) {
                 fontSize="xs"
                 px={2}
                 py={0.5}
+                bg={"green.100"}
+                color={"green.600"}
               >
                 Complete
               </Badge>
